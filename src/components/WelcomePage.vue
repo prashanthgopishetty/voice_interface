@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<a href="https://rasa.com/" target="_blank">
+		<a href="https://www.acactech.com/" target="_blank">
 			<img class="logo" src="@/assets/icon/logo.png">
 		</a>
 		<p>
